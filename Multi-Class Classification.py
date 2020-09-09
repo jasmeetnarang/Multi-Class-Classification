@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-Peform multi-classification on letter-recognition dataset taken from UCI repository. 
+Perform multi-class classification on letter-recognition dataset taken from UCI repository. 
 
 """
 
